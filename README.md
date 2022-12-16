@@ -16,6 +16,7 @@ Currently known units:
 * lbs <-> kg
 * liter <-> gallon (US)
 * Celcius <-> Fahrenheit
+* Lovibond <-> EBC
 
 Supported Browsers
 ==================
